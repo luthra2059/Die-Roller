@@ -1,5 +1,5 @@
 # Die-Roller
-Forgotten? Where did you kept your dice? Now wondering how to play ludo or snaked n ladders and other games at home? No Worries!! Here's the die app the simulates the throw of the die so that you can play without worried!!!
+Forgotten? Where did you kept your dice? Now wondering how to play ludo or snaked n ladders and other games at home? No Worries!! Here's the die app that simulates the throw of the die so that you can play without worries!!!
 
 # Installation
 
