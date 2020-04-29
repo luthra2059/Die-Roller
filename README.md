@@ -3,7 +3,7 @@ Forgotten? Where did you kept your dice? Now wondering how to play ludo or snake
 
 # Installation
 
-Unless you are a developer who is looking to write some code, all you need to do is download the `app-debug.apk` file and install it on your phone (Should be an android phone ;) )
+Unless you are a developer who is looking to write some code, all you need to do is download the [`app-debug.apk`](https://github.com/luthra2059/Die-Roller/raw/master/app-debug.apk) file and install it on your phone (Should be an android phone ;) )
 
 # Usage
 
